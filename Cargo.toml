@@ -1,0 +1,3 @@
+[workspace]
+resolver = "3"
+members = ["e621-api", "tagfilter", "tws2pool", "tws2tag"]
